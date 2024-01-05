@@ -5,7 +5,7 @@ function Dashboard() {
     let data =[
         {
         title:"EARNINGS (MONTHLY)",
-        salary:"$40,000",
+        value:"$40,000",
         color:'primary',
         icon:'fa-calendar',
         isProgress:false
